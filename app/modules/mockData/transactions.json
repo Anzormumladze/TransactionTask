@@ -1,0 +1,252 @@
+[
+  {
+    "id": 123,
+    "amount": 100.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "ILS",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T14:56:37.000Z"
+  },
+  {
+    "id": 122,
+    "amount": 100.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "ILS",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T14:56:05.000Z"
+  },
+  {
+    "id": 121,
+    "amount": 100.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "GEL",
+    "status": "CLEARED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T11:30:34.000Z"
+  },
+  {
+    "id": 120,
+    "amount": 100.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "ILS",
+    "status": "DECLINED",
+    "receipt_url": "",
+    "date": "2021-01-17T11:15:06.000Z"
+  },
+  {
+    "id": 119,
+    "amount": 101.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "ILS",
+    "status": "CLEARED",
+    "receipt_url": "",
+    "date": "2021-01-17T11:14:39.000Z"
+  },
+  {
+    "id": 118,
+    "amount": 201.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "USD",
+    "status": "PENDING",
+    "receipt_url": "",
+    "date": "2021-01-17T10:19:16.000Z"
+  },
+  {
+    "id": 117,
+    "amount": 101.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "GEL",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T10:09:12.000Z"
+  },
+  {
+    "id": 116,
+    "amount": 202.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "ILS",
+    "status": "CLEARED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:57:31.000Z"
+  },
+  {
+    "id": 115,
+    "amount": 100.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "USD",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:53:17.000Z"
+  },
+  {
+    "id": 114,
+    "amount": 101.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "USD",
+    "status": "CLEARED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:52:32.000Z"
+  },
+  {
+    "id": 113,
+    "amount": 100.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "GEL",
+    "status": "PENDING",
+    "receipt_url": "",
+    "date": "2021-01-17T09:41:22.000Z"
+  },
+  {
+    "id": 112,
+    "amount": 202.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "GEL",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:15:08.000Z"
+  },
+  {
+    "id": 111,
+    "amount": 101.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "USD",
+    "status": "CLEARED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:09:12.000Z"
+  },
+  {
+    "id": 110,
+    "amount": 100.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "ILS",
+    "status": "DECLINED",
+    "receipt_url": "",
+    "date": "2021-01-17T09:01:30.000Z"
+  },
+  {
+    "id": 109,
+    "amount": 100.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "USD",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T09:01:10.000Z"
+  },
+  {
+    "id": 108,
+    "amount": 100.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "USD",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T08:58:26.000Z"
+  },
+  {
+    "id": 107,
+    "amount": 50.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "USD",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T08:51:31.000Z"
+  },
+  {
+    "id": 106,
+    "amount": 50.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "ILS",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2021-01-17T08:50:17.000Z"
+  },
+  {
+    "id": 105,
+    "amount": 50.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "GEL",
+    "status": "CLEARED",
+    "receipt_url": "",
+    "date": "2021-01-17T08:48:50.000Z"
+  },
+  {
+    "id": 102,
+    "amount": 150.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "GEL",
+    "status": "DECLINED",
+    "receipt_url": "",
+    "date": "2020-12-29T12:07:21.000Z"
+  },
+  {
+    "id": 101,
+    "amount": 150.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "ILS",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2020-12-29T11:59:32.000Z"
+  },
+  {
+    "id": 95,
+    "amount": 17.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "ILS",
+    "status": "PENDING",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2020-10-21T13:05:19.000Z"
+  },
+  {
+    "id": 103,
+    "amount": 10.0,
+    "merchant": "American Airlines",
+    "merchant_logo": "https://i.pinimg.com/originals/b8/b1/b8/b8b1b892768628d98a02d4a42874d411.jpg",
+    "currency": "GEL",
+    "status": "DECLINED",
+    "receipt_url": "",
+    "date": "2020-10-21T13:05:19.000Z"
+  },
+  {
+    "id": 94,
+    "amount": 4.0,
+    "merchant": "Uber",
+    "merchant_logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/uber_icon_130805.png",
+    "currency": "USD",
+    "status": "DECLINED",
+    "receipt_url": "https://miro.medium.com/max/560/1*x82Hkp78H2HEc03QMiVjyA.png",
+    "date": "2020-10-05T11:18:07.000Z"
+  },
+  {
+    "id": 87,
+    "amount": 15.0,
+    "merchant": "Chipotle",
+    "merchant_logo": "https://www.ysbnow.com/wp-content/uploads/2016/02/Emblem-Chipotle.jpg",
+    "currency": "GEL",
+    "status": "DECLINED",
+    "receipt_url": "",
+    "date": "2020-09-10T00:00:00.000Z"
+  }
+]
